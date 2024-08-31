@@ -4,6 +4,4 @@ En este proyecto se genera un programa el cual dada una funcion de n variables, 
 -------
 Prueba de funcionamiento Dio
 Prueba de funciones MMarquez
-Prueba de funciones Estrada
-
-> Esto es una prueba de como funciona md
+Prueba 2 en rama MMarquez
