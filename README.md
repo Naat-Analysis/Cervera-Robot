@@ -1,5 +1,9 @@
 # CerveraTronx 3000
 ***
+![python](https://img.shields.io/badge/Python-green)
+![jupyter](https://img.shields.io/badge/Jupyter_notebooks-orange)
+![Calculus](https://img.shields.io/badge/Calculus-purple)
+
 Este proyecto consiste en un programa que recibe del usuario una función de 1 o 2 variables y permite realizar operaciones de cálculo infinitesimal simbólico y numérico sobre la función. El programa también grafica las funciones y los resultados de las operaciones aplicadas, en 2 o 3 dimensiones, según la función ingresada.
 
 El programa puede realizar 4 operaciones de cálculo:
